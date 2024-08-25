@@ -89,7 +89,7 @@ double DifferanceKristina= ((KristinaIncrease*12)-(Kristina*12));
  System.out.println("Денис теперь получает "+DenisIncrease+" рублей. Годовой доход вырос на "+DifferanceDenis
                 +" рублей.");
 System.out.println("Денис теперь получает "+KristinaIncrease+" рублей. Годовой доход вырос на "+DifferanceKristina
-        +" рублей.");
+        +" рублей. ");
 
 
 
